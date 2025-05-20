@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  proyecto.cpp
+C:\Users\luism\OneDrive\Escritorio\CGEIHC\C5\Proyecto\proyecto.cpp(519,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\luism\OneDrive\Escritorio\CGEIHC\C5\Proyecto\proyecto.cpp(632,11): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\luism\OneDrive\Escritorio\CGEIHC\C5\Proyecto\proyecto.cpp(633,11): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código
+  1 of 2176 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  ProyectoFinal.vcxproj -> C:\Users\luism\OneDrive\Escritorio\CGEIHC\C5\bin\ProyectoFinal.exe
